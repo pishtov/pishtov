@@ -22,6 +22,7 @@ Currently comfortable with
 ---
 
 Also interested in
+- Capture The Flag challenges
 - Cybersecurity and network security
 - Systems and programming
 - Software development and clean architecture
