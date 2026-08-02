@@ -1,4 +1,5 @@
-## Hello, I am really happy to see you here! 👋😄
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Hello%2C+I+am+really+happy+to+see+you+here%21+%F0%9F%91%8B%F0%9F%98%84)](https://git.io/typing-svg) 👋😄
+---
 
 I am Dimitar, known online as "pishtov." My interest in computers began at a young age, and as I grew older, this curiosity evolved from casual use—playing games or watching videos—into a genuine desire to understand how computer systems function at a fundamental level.
 
