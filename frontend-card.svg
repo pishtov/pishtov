@@ -211,11 +211,11 @@
 
       <!-- Skill chips -->
       <g font-family="Arial, sans-serif" font-size="12" font-weight="700">
-        <rect x="395" y="428" width="86" height="30" rx="9" fill="#13263a" stroke="#164e63"></rect>
-        <text x="438" y="448" text-anchor="middle" fill="#67e8f9">RESPONSIVE</text>
+        <rect x="380" y="428" width="86" height="30" rx="9" fill="#13263a" stroke="#164e63"></rect>
+        <text x="423" y="448" text-anchor="middle" fill="#67e8f9">RESPONSIVE</text>
 
-        <rect x="491" y="428" width="70" height="30" rx="9" fill="#211b3a" stroke="#4338ca"></rect>
-        <text x="526" y="448" text-anchor="middle" fill="#c4b5fd">ACCESSIBLE</text>
+        <rect x="475" y="428" width="87" height="30" rx="9" fill="#211b3a" stroke="#4338ca"></rect>
+        <text x="518" y="448" text-anchor="middle" fill="#c4b5fd">ACCESSIBLE</text>
 
         <rect x="571" y="428" width="78" height="30" rx="9" fill="#32192d" stroke="#9d174d"></rect>
         <text x="610" y="448" text-anchor="middle" fill="#f9a8d4">CREATIVE</text>
