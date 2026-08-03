@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&height=120&fontSize=40" />
+</p>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Hello%2C+I+am+really+happy+to+see+you+here%21+%F0%9F%91%8B%F0%9F%98%84)](https://git.io/typing-svg)
 ---
 
@@ -11,7 +15,11 @@ I am currently continuing my studies in this field while working on personal pro
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&height=120&fontSize=40" />
+  <img
+    src="./frontend-development-card.svg"
+    alt="About my interest in front-end development"
+    width="900"
+  />
 </p>
 
 ---
