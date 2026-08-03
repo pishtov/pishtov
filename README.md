@@ -16,7 +16,7 @@ I am currently continuing my studies in this field while working on personal pro
 
 <p align="center">
   <img
-    src="./frontend-development-card.svg"
+    src="./frontend-card.svg"
     alt="About my interest in front-end development"
     width="900"
   />
