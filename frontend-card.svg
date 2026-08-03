@@ -1,0 +1,247 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520" role="img" aria-labelledby="title description">
+  <title id="title">Front-End Development</title>
+  <desc id="description">
+    A browser-inspired card describing my interest in front-end development.
+  </desc>
+
+  <defs>
+    <!-- Background -->
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#090e1a"></stop>
+      <stop offset="50%" stop-color="#111827"></stop>
+      <stop offset="100%" stop-color="#07111f"></stop>
+    </linearGradient>
+
+    <!-- Main accent -->
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22d3ee"></stop>
+      <stop offset="45%" stop-color="#818cf8"></stop>
+      <stop offset="100%" stop-color="#f472b6"></stop>
+    </linearGradient>
+
+    <!-- Text gradient -->
+    <linearGradient id="headingGradient" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#67e8f9"></stop>
+      <stop offset="50%" stop-color="#a5b4fc"></stop>
+      <stop offset="100%" stop-color="#f9a8d4"></stop>
+    </linearGradient>
+
+    <!-- Soft glow -->
+    <radialGradient id="cyanGlow">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.28"></stop>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0"></stop>
+    </radialGradient>
+
+    <radialGradient id="pinkGlow">
+      <stop offset="0%" stop-color="#f472b6" stop-opacity="0.22"></stop>
+      <stop offset="100%" stop-color="#f472b6" stop-opacity="0"></stop>
+    </radialGradient>
+
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="160%">
+      <feDropShadow dx="0" dy="18" stdDeviation="18" flood-color="#000000" flood-opacity="0.45"></feDropShadow>
+    </filter>
+
+    <filter id="smallGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"></feGaussianBlur>
+      <feMerge>
+        <feMergeNode in="blur"></feMergeNode>
+        <feMergeNode in="SourceGraphic"></feMergeNode>
+      </feMerge>
+    </filter>
+
+    <clipPath id="browserClip">
+      <rect x="40" y="40" width="920" height="440" rx="24"></rect>
+    </clipPath>
+  </defs>
+
+  <!-- Outer background -->
+  <rect width="1000" height="520" rx="32" fill="url(#background)"></rect>
+
+  <!-- Decorative glows -->
+  <circle cx="80" cy="80" r="260" fill="url(#cyanGlow)"></circle>
+  <circle cx="920" cy="440" r="280" fill="url(#pinkGlow)"></circle>
+
+  <!-- Decorative grid -->
+  <g opacity="0.08" stroke="#94a3b8" stroke-width="1">
+    <path d="M0 80H1000 M0 160H1000 M0 240H1000 M0 320H1000 M0 400H1000"></path>
+    <path d="M100 0V520 M200 0V520 M300 0V520 M400 0V520 M500 0V520
+             M600 0V520 M700 0V520 M800 0V520 M900 0V520"></path>
+  </g>
+
+  <!-- Browser -->
+  <g filter="url(#shadow)">
+    <rect x="40" y="40" width="920" height="440" rx="24" fill="#0b1220" stroke="#263247" stroke-width="2"></rect>
+
+    <!-- Browser top bar -->
+    <path d="M64 40H936A24 24 0 0 1 960 64V104H40V64A24 24 0 0 1 64 40Z" fill="#111827"></path>
+
+    <!-- Window controls -->
+    <circle cx="72" cy="72" r="7" fill="#fb7185"></circle>
+    <circle cx="96" cy="72" r="7" fill="#fbbf24"></circle>
+    <circle cx="120" cy="72" r="7" fill="#4ade80"></circle>
+
+    <!-- Browser address field -->
+    <rect x="160" y="56" width="650" height="32" rx="10" fill="#080d17" stroke="#273449"></rect>
+
+    <circle cx="183" cy="72" r="5" fill="#22d3ee"></circle>
+    <text x="199" y="77" font-family="Consolas, Monaco, monospace" font-size="12" fill="#8291a8">
+      portfolio.dev/about/front-end
+    </text>
+
+    <!-- Browser icons -->
+    <rect x="835" y="61" width="22" height="22" rx="5" fill="#1e293b"></rect>
+    <path d="M842 72H850 M846 68V76" stroke="#94a3b8" stroke-width="1.5"></path>
+    <rect x="869" y="61" width="22" height="22" rx="5" fill="#1e293b"></rect>
+    <path d="M876 68H884V76H876Z" fill="none" stroke="#94a3b8"></path>
+    <circle cx="918" cy="72" r="11" fill="url(#accent)"></circle>
+    <text x="918" y="76" text-anchor="middle" font-family="Arial, sans-serif" font-size="11" font-weight="700" fill="#ffffff">
+      FE
+    </text>
+  </g>
+
+  <!-- Browser content -->
+  <g clip-path="url(#browserClip)">
+    <!-- Left code panel -->
+    <rect x="40" y="104" width="315" height="376" fill="#080d17"></rect>
+    <rect x="40" y="104" width="315" height="38" fill="#0e1626"></rect>
+
+    <!-- File tabs -->
+    <rect x="56" y="114" width="102" height="28" rx="6" fill="#172033"></rect>
+    <circle cx="70" cy="128" r="4" fill="#f97316"></circle>
+    <text x="81" y="132" font-family="Consolas, Monaco, monospace" font-size="11" fill="#d6deeb">
+      About.jsx
+    </text>
+
+    <text x="175" y="132" font-family="Consolas, Monaco, monospace" font-size="11" fill="#64748b">
+      styles.css
+    </text>
+
+    <!-- Editor line numbers -->
+    <g font-family="Consolas, Monaco, monospace" font-size="12" fill="#34445e" text-anchor="end">
+      <text x="70" y="174">1</text>
+      <text x="70" y="198">2</text>
+      <text x="70" y="222">3</text>
+      <text x="70" y="246">4</text>
+      <text x="70" y="270">5</text>
+      <text x="70" y="294">6</text>
+      <text x="70" y="318">7</text>
+      <text x="70" y="342">8</text>
+      <text x="70" y="366">9</text>
+      <text x="70" y="390">10</text>
+      <text x="70" y="414">11</text>
+    </g>
+
+    <!-- Code -->
+    <g font-family="Consolas, Monaco, monospace" font-size="12">
+      <text x="88" y="174">
+        <tspan fill="#c084fc">const</tspan>
+        <tspan fill="#67e8f9"> developer</tspan>
+        <tspan fill="#d6deeb"> = {</tspan>
+      </text>
+
+      <text x="105" y="198">
+        <tspan fill="#93c5fd">focus</tspan>
+        <tspan fill="#d6deeb">: </tspan>
+        <tspan fill="#a7f3d0">"front-end"</tspan>
+        <tspan fill="#d6deeb">,</tspan>
+      </text>
+
+      <text x="105" y="222">
+        <tspan fill="#93c5fd">builds</tspan>
+        <tspan fill="#d6deeb">: [</tspan>
+      </text>
+
+      <text x="122" y="246" fill="#a7f3d0">"websites",</text>
+      <text x="122" y="270" fill="#a7f3d0">"mobile apps",</text>
+      <text x="122" y="294" fill="#a7f3d0">"design systems"</text>
+
+      <text x="105" y="318" fill="#d6deeb">],</text>
+
+      <text x="105" y="342">
+        <tspan fill="#93c5fd">values</tspan>
+        <tspan fill="#d6deeb">: [</tspan>
+      </text>
+
+      <text x="122" y="366" fill="#f9a8d4">"creativity",</text>
+      <text x="122" y="390" fill="#f9a8d4">"clean UX"</text>
+
+      <text x="105" y="414" fill="#d6deeb">]</text>
+      <text x="88" y="438" fill="#d6deeb">};</text>
+    </g>
+
+    <!-- Divider -->
+    <rect x="354" y="104" width="1" height="376" fill="#263247"></rect>
+
+    <!-- Right content -->
+    <g>
+      <!-- Tiny component label -->
+      <rect x="395" y="138" width="166" height="30" rx="15" fill="#111c2e" stroke="#294158"></rect>
+      <circle cx="413" cy="153" r="5" fill="#4ade80"></circle>
+      <text x="426" y="158" font-family="Arial, sans-serif" font-size="12" font-weight="700" letter-spacing="1" fill="#9fb0c8">
+        UI COMPONENT
+      </text>
+
+      <!-- Main heading -->
+      <text x="395" y="215" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="800" fill="url(#headingGradient)">
+        Front-end is where
+      </text>
+
+      <text x="395" y="258" font-family="Arial, Helvetica, sans-serif" font-size="38" font-weight="800" fill="#f8fafc">
+        ideas become experiences.
+      </text>
+
+      <!-- Accent line -->
+      <rect x="395" y="278" width="110" height="5" rx="2.5" fill="url(#accent)" filter="url(#smallGlow)"></rect>
+
+      <!-- Paragraph -->
+      <g font-family="Arial, Helvetica, sans-serif" font-size="17" fill="#aebcd0">
+        <text x="395" y="322">
+          One of my favorite parts of software development is
+        </text>
+        <text x="395" y="348">
+          front-end development. I enjoy building websites and
+        </text>
+        <text x="395" y="374">
+          mobile applications, combining creativity with
+        </text>
+        <text x="395" y="400">
+          problem-solving to create clean, engaging experiences.
+        </text>
+      </g>
+
+      <!-- Skill chips -->
+      <g font-family="Arial, sans-serif" font-size="12" font-weight="700">
+        <rect x="395" y="428" width="86" height="30" rx="9" fill="#13263a" stroke="#164e63"></rect>
+        <text x="438" y="448" text-anchor="middle" fill="#67e8f9">RESPONSIVE</text>
+
+        <rect x="491" y="428" width="70" height="30" rx="9" fill="#211b3a" stroke="#4338ca"></rect>
+        <text x="526" y="448" text-anchor="middle" fill="#c4b5fd">ACCESSIBLE</text>
+
+        <rect x="571" y="428" width="78" height="30" rx="9" fill="#32192d" stroke="#9d174d"></rect>
+        <text x="610" y="448" text-anchor="middle" fill="#f9a8d4">CREATIVE</text>
+
+        <rect x="659" y="428" width="63" height="30" rx="9" fill="#183024" stroke="#166534"></rect>
+        <text x="690" y="448" text-anchor="middle" fill="#86efac">CLEAN UI</text>
+
+        <rect x="732" y="428" width="82" height="30" rx="9" fill="#302515" stroke="#92400e"></rect>
+        <text x="773" y="448" text-anchor="middle" fill="#fde68a">USER-FIRST</text>
+      </g>
+
+      <!-- Floating UI card -->
+      <g transform="translate(824 138)">
+        <rect width="98" height="126" rx="16" fill="#111a2b" stroke="#2c3b54"></rect>
+        <rect x="14" y="15" width="70" height="9" rx="4.5" fill="url(#accent)"></rect>
+        <rect x="14" y="38" width="50" height="6" rx="3" fill="#52627b"></rect>
+        <rect x="14" y="51" width="65" height="6" rx="3" fill="#34435b"></rect>
+        <rect x="14" y="72" width="30" height="30" rx="8" fill="#172c3b"></rect>
+        <path d="M23 88L29 82L35 88" fill="none" stroke="#67e8f9" stroke-width="2"></path>
+        <rect x="51" y="72" width="33" height="8" rx="4" fill="#4f46e5"></rect>
+        <rect x="51" y="86" width="27" height="6" rx="3" fill="#34435b"></rect>
+        <rect x="14" y="109" width="70" height="5" rx="2.5" fill="#243249"></rect>
+      </g>
+    </g>
+  </g>
+
+  <!-- Outer accent -->
+  <rect x="40" y="40" width="920" height="440" rx="24" fill="none" stroke="url(#accent)" stroke-width="1.5" opacity="0.65"></rect>
+</svg>
