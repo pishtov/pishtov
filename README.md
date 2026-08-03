@@ -10,7 +10,9 @@ I am currently continuing my studies in this field while working on personal pro
 
 ---
 
+<rainbow>
 One of my favorite parts of software development is front-end development. I enjoy working on websites and mobile applications, combining creativity with problem-solving to build clean and engaging user experiences.
+</rainbow>
 
 ---
 
