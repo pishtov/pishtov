@@ -10,7 +10,9 @@ I am currently continuing my studies in this field while working on personal pro
 
 ---
 
-
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&height=120&fontSize=40" />
+</p>
 
 ---
 
