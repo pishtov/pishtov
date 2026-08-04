@@ -2,7 +2,11 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&height=120&fontSize=40" />
 </p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&width=700&lines=const+visitor+%3D+%22You%22%3B;console.log(%60Hello%2C+%24%7Bvisitor%7D!%60)%3B;console.log(%22I+am+really+happy+to+see+you+here!+%F0%9F%9A%80%22)%3B)](https://git.io/typing-svg)
+<p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&height=30&lines=const+visitor+%3D+%22You%22%3B" alt="const visitor = You"><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&height=30&lines=console.log%28%60Hello%2C+%24%7Bvisitor%7D%21%60%29%3B" alt="Hello visitor"><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&height=30&lines=console.log%28%22I+am+really+happy+to+see+you+here%21+%F0%9F%9A%80%22%29%3B" alt="Welcome message">
+</p>
 
 ---
 
