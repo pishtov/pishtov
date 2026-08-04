@@ -3,9 +3,9 @@
 </p>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&height=30&lines=const+visitor+%3D+%22You%22%3B" alt="const visitor = You"><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&height=30&lines=console.log%28%60Hello%2C+%24%7Bvisitor%7D%21%60%29%3B" alt="Hello visitor"><br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&height=30&lines=console.log%28%22I+am+really+happy+to+see+you+here%21" alt="Welcome message">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2500&width=700&height=30&lines=const+visitor+%3D+%22You%22%3B" alt="const visitor = You"><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&width=700&height=30&lines=console.log%28%60Hello%2C+%24%7Bvisitor%7D%21%60%29%3B" alt="Hello visitor"><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&width=700&height=30&lines=console.log%28%22I+am+really+happy+to+see+you+here%21%22%29%3B" alt="Welcome message">
 </p>
 
 ---
