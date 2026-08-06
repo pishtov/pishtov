@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&height=120&fontSize=40" />
-</p>
-
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2500&width=700&height=30&lines=const+visitor+%3D+%22You%22%3B" alt="const visitor = You"><br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&width=700&height=30&lines=console.log%28%60Hello%2C+%24%7Bvisitor%7D%21%60%29%3B" alt="Hello visitor"><br>
@@ -24,13 +20,13 @@ I am currently continuing my studies in this field while working on personal pro
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=pishtov&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
-<p align="center">
-  <img
-    src="./frontend-card.svg"
-    alt="About my interest in front-end development"
-    width="900"
-  />
-</p>
+<> <p align="center">
+<>  <img
+<>    src="./frontend-card.svg"
+<>    alt="About my interest in front-end development"
+<>    width="900"
+<>  />
+<> </p>
 
 ---
 
