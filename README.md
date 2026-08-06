@@ -20,13 +20,13 @@ I am currently continuing my studies in this field while working on personal pro
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=pishtov&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ---
 
-<> <p align="center">
-<>  <img
-<>    src="./frontend-card.svg"
-<>    alt="About my interest in front-end development"
-<>    width="900"
-<>  />
-<> </p>
+<!--> <p align="center">
+<!-->  <img
+<!-->    src="./frontend-card.svg"
+<!-->    alt="About my interest in front-end development"
+<!-->    width="900"
+<!-->  />
+<!--> </p>
 
 ---
 
