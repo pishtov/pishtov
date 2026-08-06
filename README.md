@@ -18,6 +18,11 @@ I completed my secondary education with a focus on programming in C++, which str
 I am currently continuing my studies in this field while working on personal projects to apply what I learn in practice. Although I am still building my skills and experience, each project contributes to a stronger understanding of the subject and brings me closer to my long-term goals in the industry.
 
 ---
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=pishtov&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=pishtov&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pishtov&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
 <p align="center">
   <img
