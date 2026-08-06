@@ -27,6 +27,8 @@ I am currently continuing my studies in this field while working on personal pro
 <!-->  />
 <!--> </p>
 
+---
+
 You can reach me on LinkedIn:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dimware/)
