@@ -6,7 +6,7 @@
 
 ---
 
-I am Dimitar, known online as "pishtov." My interest in computers began at a young age, and as I grew older, this curiosity evolved from casual use—playing games or watching videos—into a genuine desire to understand how computer systems function at a fundamental level.
+I am Dimitar, known online as "pishtov." My <span style="color: blue"> interest </span> in computers began at a young age, and as I grew older, this curiosity evolved from casual use—playing games or watching videos—into a genuine desire to understand how computer systems function at a fundamental level.
 
 ---
 
