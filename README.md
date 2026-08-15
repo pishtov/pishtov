@@ -15,7 +15,6 @@ I am currently continuing my studies in this field while working on personal pro
 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=pishtov&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=pishtov&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=pishtov&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
