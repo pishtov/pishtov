@@ -14,7 +14,7 @@ I completed my secondary education with a focus on programming in C++, which str
 I am currently continuing my studies in this field while working on personal projects to apply what I learn in practice. Although I am still building my skills and experience, each project contributes to a stronger understanding of the subject and brings me closer to my long-term goals in the industry.
 
 ---
-<table>
+<table border="0">
 <tr>
 <td valign="top">
 
