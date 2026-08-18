@@ -14,7 +14,13 @@ I completed my secondary education with a focus on programming in C++, which str
 I am currently continuing my studies in this field while working on personal projects to apply what I learn in practice. Although I am still building my skills and experience, each project contributes to a stronger understanding of the subject and brings me closer to my long-term goals in the industry.
 
 ---
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=pishtov&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=pishtov&theme=shadow_green&hide_border=false&include_all_commits=true&count_private=true&layout=compact) Also interested in
+- Capture The Flag challenges
+- Cybersecurity and network security
+- Systems and programming
+- Software development and clean architecture
+- Reverse engineering and problem solving
+- Continuous learning and personal projects
 
 ---
 
@@ -32,13 +38,5 @@ Currently comfortable with
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-
-Also interested in
-- Capture The Flag challenges
-- Cybersecurity and network security
-- Systems and programming
-- Software development and clean architecture
-- Reverse engineering and problem solving
-- Continuous learning and personal projects
 
 <p align="center"> <img src="https://img.shields.io/badge/Profile%20views-067-lightgrey" alt="Profile views" /> </p>
